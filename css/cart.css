@@ -1,0 +1,32 @@
+.woocommerce-page table.cart img{
+	width:100%!important;
+}
+#detailProduct .design_image img{
+	width:100%!important;
+}
+.product-name .shirts_cart img{
+	max-width:150px;
+	width:100%!important;
+}
+.mini_cart_item .shirts_cart tr td:nth-child(3){
+	display:none;
+}
+.mini_cart_item  .shirts_cart tr th{
+display:none;
+}
+table.shirts_cart td {
+	vertical-align:top!important;
+}
+table.shirts_cart td.shirt_style_image{
+	vertical-align:top!important;
+}
+table.cart .shirt_style_image{
+	display:none;
+}
+.mini_cart_item .shirt_style_image{
+		display:none;
+}
+.app_image{
+	max-width:150px!important;
+	width:100%!important;
+}

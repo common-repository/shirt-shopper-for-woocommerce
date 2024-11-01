@@ -1,0 +1,16 @@
+#toplevel_page_shirt_shopper .wp-menu-image img{
+	width:30px!important;
+}
+.apparel_options a:before {
+	content: "\f109";
+}
+
+#tblProductDesigns .product_tab_textbox{
+	width:96%!important;
+	padding:3px 2% 3px 2%!important;
+	margin:0px!important;
+}
+#tblProductDesigns .product_tab_select{
+	width:100%!important;
+	margin:0px!important;
+}
